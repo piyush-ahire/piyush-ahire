@@ -3,7 +3,7 @@
 👨‍🎓I am Piyush Ahire, currently embarking on my engineering journey from D.Y. Patil Institute of Engineering Management and Research Akurdi, Pune. <br />
 💻I am a **Web Developer** as well as a **Programmer** .<br />
 <!--🏆🥇I am **3-star⭐️** coder at Codechef.<br /> -->
-📝✏️I am currently learning **Competitive coding**, and **Full stack Development** <br />
+📝✏️I am currently learning **Competitive coding** and **Full stack Development** <br />
 
 <!--[![Badge](https://cp-logo.vercel.app/codechef/nehakale1403)](https://www.codechef.com/users/nehakale1403)
 --- -->
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <p>
+<p>
 <h3 align="left">Technology and Tools:</h3>
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg"></code>
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg"></code>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
- ## Connect with me  
+## Connect with me  
 <div align="">
 
 <a href="https://linkedin.com/in/piyush ahire" target="_blank">
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 
  
-<br>
+ 
 
 
  
