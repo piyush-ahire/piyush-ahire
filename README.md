@@ -24,8 +24,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Piyush Ahire</h1>
-<h3 align="center">A passionate Frontend developer and programmer from India</h3>
+ <p>
+<h3 align="left">Technology and Tools:</h3>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg"></code>
+ </p>
+
+
+
+<p>
+ ## Connect with me  
+<div align="center">
+
+ <a href="https://linkedin.com/in/piyush ahire" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/piyush-ahire" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:piyushahire402@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
+
+<!-- <a href="https://www.codechef.com/users/nehakale1403" target="_blank">
+<img src=https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> -->
+
+<!-- <a href="https://leetcode.com/nehakale1403/" target="_blank">
+<img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=devto style="margin-bottom: 5px;" />
+</a> -->
+
+
+</div>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,12 +70,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg"></code>
-<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg"></code>
-<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></code>
-<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg"></code>
-<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg"></code>
+
  
 <br>
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg"></code>
