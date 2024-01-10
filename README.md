@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg"></code>
 <br>
 <code><img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+<code><img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
  
  </p>
 
