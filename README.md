@@ -31,15 +31,18 @@ Here are some ideas to get you started:
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></code>
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg"></code>
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg"></code>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg"></code>
  </p>
 
 
 
-<p>
+
  ## Connect with me  
 <div align="center">
 
- <a href="https://linkedin.com/in/piyush ahire" target="_blank">
+<a href="https://linkedin.com/in/piyush ahire" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
@@ -58,23 +61,12 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=devto style="margin-bottom: 5px;" />
 </a> -->
 
-
 </div>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/piyush ahire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush ahire" height="30" width="40" /></a>
-<a href="https://instagram.com/piyush_ahire_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyushahire" height="30" width="40" /></a>
  
-
-</p>
 
 
  
 <br>
-<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg"></code>
-<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg"></code>
-<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg"></code>
+
 
  
