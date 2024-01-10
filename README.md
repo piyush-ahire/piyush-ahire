@@ -52,6 +52,11 @@ Here are some ideas to get you started:
 
 <a href="mailto:piyushahire402@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://instagram.com/piyush_ahire_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 
 <!-- <a href="https://www.codechef.com/users/nehakale1403" target="_blank">
 <img src=https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white alt=twitter style="margin-bottom: 5px;" />
