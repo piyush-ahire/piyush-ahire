@@ -1,7 +1,7 @@
 # Hello Developers, I'm Piyush Ahire <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 👨‍🎓I am Piyush Ahire, currently embarking on my engineering journey from D.Y. Patil Institute of Engineering Management and Research Akurdi, Pune. <br />
-💻I am a **Web Developer** as well as a **Programmer** .<br />
+💻I am a **Programmer** as well as a **Web Developer** .<br />
 <!--🏆🥇I am **3-star⭐️** coder at Codechef.<br /> -->
 📝✏️I am currently learning **Competitive coding** and **Full stack Development** <br />
 
