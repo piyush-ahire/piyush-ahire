@@ -5,8 +5,8 @@
 <!--🏆🥇I am **3-star⭐️** coder at Codechef.<br /> -->
 📝✏️I am currently learning **Competitive coding**, and **Full stack Development** <br />
 
-[![Badge](https://cp-logo.vercel.app/codechef/nehakale1403)](https://www.codechef.com/users/nehakale1403)
----
+<!--[![Badge](https://cp-logo.vercel.app/codechef/nehakale1403)](https://www.codechef.com/users/nehakale1403)
+--- -->
 
  
 
