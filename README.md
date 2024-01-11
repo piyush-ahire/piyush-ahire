@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
 <code><img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img width="7%" src=" https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img width="7%" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "></code>
+<code><img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
  <br>
 <code><img width="7%" src=" https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg "></code>
  
