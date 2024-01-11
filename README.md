@@ -30,22 +30,23 @@ Here are some ideas to get you started:
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg"></code>
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></code>
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg"></code>
-<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg"></code>
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg"></code>
-<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg"></code>
- <br>
+<code><img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg"></code>
-<code><img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+ <br>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg"></code>
+<code><img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 <code><img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/django.svg"></code>
-<code><img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img width="7%"  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
- <br>
+<code><img width="7%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg"></code>
+<code><img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
 <code><img width="7%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
+ <br>
+<code><img width="7%"  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
  
+</p>
+
  
- </p>
 
 
 
